@@ -17,6 +17,7 @@ gem "jbuilder", "~> 2.5"
 gem "bootstrap-sass"
 gem "elasticsearch-model"
 gem "elasticsearch-rails"
+gem "faker"
 
 group :development, :test do
   gem "pry-rails"
